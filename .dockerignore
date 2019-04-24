@@ -1,0 +1,6 @@
+.gitignore
+kubernetes
+node_modules
+license
+README.md
+README_es.md
